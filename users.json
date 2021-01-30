@@ -1,0 +1,26 @@
+[
+    {
+    "id": 1,
+    "name": "username1",
+    "surname": "surname1",
+    "profileSrc": "http://some/"
+    },
+    {
+    "id": 2,
+    "name": "username2",
+    "surname": "surname2",
+    "profileSrc": "http://some/"
+    },
+    {
+    "id": 3,
+    "name": "username3",
+    "surname": "surname3",
+    "profileSrc": "http://some/"
+    },
+    {
+    "id": 4,
+    "name": "username4",
+    "surname": "surname4",
+    "profileSrc": "http://some/"
+    }
+]
